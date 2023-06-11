@@ -12,5 +12,3 @@ Next, a Fruit class was created to handle the game's fruit object. This class in
 
 ## Main Class
 A Main class was then created to manage the overall game. This class initialized variables, ran various functions, and handled the game loop. The game loop checked for player input, updated and drew all game elements, checked if the snake's head collided with the fruit, checked if the snake died, and triggered the necessary actions accordingly.
-
-To play the game go here: https://vsjethra.itch.io/snake-game
