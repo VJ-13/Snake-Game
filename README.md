@@ -1,5 +1,5 @@
-# Snake Game 
-### https://vsjethra.itch.io/snake-game
+# [Snake Game](https://vsjethra.itch.io/snake-game) 
+
 ![image](https://github.com/VJ-13/Snake-Game/assets/64769412/6ab4b901-f871-4d13-8cfb-5a81154440cb)
 
 The Snake Game is a classic game implemented in Python with pygame. The development process involved several steps to create a functional and visually appealing game.
